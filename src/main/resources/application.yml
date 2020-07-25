@@ -1,0 +1,7 @@
+micronaut:
+  application:
+    name: exploreDynamodb
+jackson:
+  bean-introspection-module: true
+#  serialization-inclusion: always
+
